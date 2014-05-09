@@ -51,6 +51,8 @@ gem 'bcrypt-ruby', '~> 3.0.0'
 # Use Capistrano for deployment
 gem 'rvm-capistrano', group: :development
 
+gem 'rails_12factor', group: :production
+
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
